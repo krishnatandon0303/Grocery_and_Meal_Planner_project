@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Grocery and Meal Planner</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_first_visit_title">Plan meals, track inventory, eat better!</string>
+    <string name="user_first_visit_description"><![CDATA[Smart Grocery & Meal Planner helps you plan meals, create shopping lists, and manage ingredients effortlessly for a healthier, organized lifestyle.]]></string>
+    <string name="default_web_client_id">224174824326-c9ejeal7837a5cffjlgt1vibvndqjk9u.apps.googleusercontent.com</string>
+
+    <string-array name="measurement_units">
+        <item>Piece</item>
+        <item>Dozen</item>
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Milligram</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Teaspoon</item>
+        <item>Tablespoon</item>
+        <item>Liter</item>
+        <item>Milliliter</item>
+        <item>Gallon (US)</item>
+        <item>Gallon (UK)</item>
+    </string-array>
+
+
+</resources>
